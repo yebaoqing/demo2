@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 /**
  * 统一异常处理类
  * 
- * @author xiangze
+ * @author
  *
  */
 @ControllerAdvice
